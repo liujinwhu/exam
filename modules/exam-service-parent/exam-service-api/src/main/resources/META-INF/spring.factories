@@ -1,0 +1,3 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  com.lanshu.exam.api.feign.fallback.ExaminationServiceClientFallbackImpl,\
+  com.lanshu.exam.api.feign.factory.ExaminationServiceClientFallbackFactory
